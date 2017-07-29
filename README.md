@@ -1,6 +1,6 @@
 # MashUp-Project
 
-**Live Demo** (https://vannjo02.github.io/MashUp-Project/static/mashes.html)
+[LIVE DEMO](https://vannjo02.github.io/MashUp-Project/static/mashes.html)
 
 
 Midterm API mashup project
