@@ -1,5 +1,6 @@
 # MashUp-Project
-Live Demo-https://vannjo02.github.io/MashUp-Project/static/mashes.html
+
+**Live Demo** (https://vannjo02.github.io/MashUp-Project/static/mashes.html)
 
 
 Midterm API mashup project
@@ -11,6 +12,6 @@ Using the search box will result in more articles specific to what was searched 
 
 Created by: 
 
-Joshua Vannatter
-
 Clinton Akomea-Agyin
+&
+Joshua Vannatter
