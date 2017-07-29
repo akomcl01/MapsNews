@@ -1,4 +1,7 @@
 # MashUp-Project
+Live Demo-https://vannjo02.github.io/MashUp-Project/static/mashes.html
+
+
 Midterm API mashup project
 
 Use this simple webpage to get random news articles from around the world! 
